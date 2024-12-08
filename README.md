@@ -2,5 +2,5 @@
 Harden MacOS Security/Privacy without security tradeoff
 
 ```
-Custom Settingts with: https://privacy.sexy/
+Custom Settings with: https://privacy.sexy/
 ```
